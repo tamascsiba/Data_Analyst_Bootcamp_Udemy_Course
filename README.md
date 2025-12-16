@@ -4,7 +4,7 @@ The link of the course: https://www.udemy.com/course/complete-data-analyst-bootc
 ---
 
 ## Python 
-Basic of Python
+Basic of Python  
 Examples for Numpy, Pandas, Matplotlib, Seaborn
 
 ---
