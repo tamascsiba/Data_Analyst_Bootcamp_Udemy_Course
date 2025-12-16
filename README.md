@@ -21,4 +21,11 @@ Handling Missing Values
 SMOTE  
 Encoding
 
+---
+
 ## Exploratory Data Analysis (EDA)
+Examples for EDA with large datasets
+
+---
+
+## SQL
