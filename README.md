@@ -28,4 +28,5 @@ Examples for EDA with large datasets
 
 ---
 
-## SQL
+## SQL  
+Microsoft SQL Server
