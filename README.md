@@ -30,3 +30,4 @@ Examples for EDA with large datasets with Python
 
 ## SQL  
 Microsoft SQL Server
+Examples for most used Statements, Clauses, Functions, Operators
