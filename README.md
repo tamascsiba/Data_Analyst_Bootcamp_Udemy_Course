@@ -47,4 +47,4 @@ Projects
 
 ---
 
-## EXCEL
+## Microsoft Excel
